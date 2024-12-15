@@ -1,4 +1,4 @@
-# jokes_app
+# Ива Георгиева 213051 - jokes_app 
 
 MIS Laboratory Exercise 2.
 
